@@ -9,7 +9,7 @@
  - Fichier: sales_2.csv
  - Données fictives (commandes, produits, clients, régions)
 
-## Préparation des données
+## Préparation des données 🛠
 ### 1. Contrôle qualité des données
   -  Analyse des types de données
   -  Verification des données via: qualité de colonne, distribution, profil des colonnes
@@ -30,7 +30,7 @@ Création d'un modèle en étoile:
  - Vérification d'unicité des identifiants
  - Chargement des tables finales `Client`, `Produit`, `Région`, `Vente`
 
-## Mesures DAX 
+## Mesures DAX 🛠
 
 >Total vente = SUM(ventes[Prix total])
 >
