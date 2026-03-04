@@ -30,7 +30,7 @@ Création d'un modèle en étoile:
  - Vérification d'unicité des identifiants
  - Chargement des tables finales `Client`, `Produit`, `Région`, `Vente`
 
-## Mesures DAX 🛠
+## Mesures DAX 📐
 
 >Total vente = SUM(ventes[Prix total])
 >
